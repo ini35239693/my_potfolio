@@ -1,5 +1,6 @@
 # my_potfolio
 This reprository contains 5 projects
+
 SQL project
 
 E-commerce A/B testing: in this project, i conducted A/B test research to determine the performance of a new recommender system carried out by the company’s marketing team using the Z-criterion. A/B testing file contains the following; Import libraries and Data , Data preprocessing, Data exploration, A/B testing and Result, Recommendation and conclusion.
